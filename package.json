@@ -1,0 +1,15 @@
+{
+  "name": "sugestaobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lui",
+  "license": "ISC",
+  "dependencies": {
+    "discord-prefix": "^3.0.0",
+    "discord.js": "^14.0.3"
+  }
+}
